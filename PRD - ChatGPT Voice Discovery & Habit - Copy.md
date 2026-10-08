@@ -4,7 +4,7 @@
 **Contributors:** Radha D S and Teams  
 **Status:** In Development  
 **Launching on:** ChatGPT Mobile - India  
-**Resources:** Milestone1 Milestone 2 [annotated wireframes](https://www.dropbox.com/scl/fo/p9ln0cqxrbi6k6pjepf06/AJ-_T0BjjRxD3KCii-jqiHU?rlkey=tl9qwbev37a27wz55sqihq945&st=z0w0zqtm&dl=0), Clickable Simulation
+**Resources:** Milestone1 Milestone 2 annotated wireframes ([Wireframes / Wireflow Reference](https://www.dropbox.com/scl/fo/p9ln0cqxrbi6k6pjepf06/AJ-_T0BjjRxD3KCii-jqiHU?rlkey=tl9qwbev37a27wz55sqihq945&st=z0w0zqtm&dl=0)), Clickable Simulation
 
 **Objective:** Increase Voice adoption and repeat usage among Indian mobile ChatGPT users by helping them discover when Voice is more useful than typing.
 
